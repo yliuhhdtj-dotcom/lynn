@@ -1,0 +1,7 @@
+{
+  "name": "Copy of ArchLens - Architectural Identity Finder",
+  "description": "Upload a photo to instantly identify buildings or urban scenes, uncovering detailed insights about their designers, construction history, and design philosophy.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
